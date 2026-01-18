@@ -1,7 +1,8 @@
 # Customer_Behavior_Dashboard
 
-**📊 Data Analytics Project README
-📝 Overview**
+**📊 Data Analytics Project**
+
+**📝 Overview**
 
 This project demonstrates a complete data analytics workflow, from raw data ingestion to actionable business insights. It highlights technical skills in Python, SQL, and data visualization, focusing on customer behavior, product performance, and revenue trends.
 
