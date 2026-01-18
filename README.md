@@ -2,11 +2,13 @@
 
 **📊 Data Analytics Project**
 
+
 **📝 Overview**
 
 This project demonstrates a complete data analytics workflow, from raw data ingestion to actionable business insights. It highlights technical skills in Python, SQL, and data visualization, focusing on customer behavior, product performance, and revenue trends.
 
-***📂 Dataset***
+
+**📂 Dataset**
 
 
 Customer transactions and related business data.
@@ -15,6 +17,7 @@ Processed and analyzed using Python (Pandas).
 
 
 **🛠 Tools & Technologies**
+
 
 **Python:** Data cleaning, EDA, preprocessing
 **SQL:** PostgreSQL
@@ -26,29 +29,36 @@ Processed and analyzed using Python (Pandas).
 **⚡ Workflow**
 
 
+
 **Load Dataset 📥**
 Import CSV/Excel files into Python for preprocessing.
+
 
 **Exploratory Data Analysis (EDA) 🔍**
 Analyze distributions & patterns
 Identify missing values & outliers
 
+
 **Data Cleaning 🧹**
 Handle missing/inconsistent data
 Normalize categorical variables
 
+
 **SQL Analysis 💾**
-Connect to databases (PostgreSQL/MySQL/SQL Server)
+Connect to databases (PostgreSQL)
 Perform joins, aggregations & ranking queries
 Analyze customer behavior, product sales & revenue
+
 
 **Dashboard Creation 📊**
 Build interactive Power BI dashboards
 Track KPIs: total revenue, average spend, top products, customer segments
 
+
 **Reporting 🖥️**
 Summarize insights in Gamma PPTs
 Include charts, tables & actionable recommendations
+
 
 
 **📈 Results & Insights**
@@ -59,3 +69,5 @@ Customer segmentation: New, Returning, Loyal 👥
 Most purchased products per category 🏷️
 Repeat buyer subscription trends 🔄
 Revenue contribution by Age Group 👶👨‍🦳
+
+**# Screenshot of Dashboard**
