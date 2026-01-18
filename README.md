@@ -71,3 +71,5 @@ Repeat buyer subscription trends 🔄
 Revenue contribution by Age Group 👶👨‍🦳
 
 **# Screenshot of Dashboard**
+
+<img width="1050" height="808" alt="image" src="https://github.com/user-attachments/assets/a4d42b0b-31e2-4cd5-baf7-2e962eae4083" />
